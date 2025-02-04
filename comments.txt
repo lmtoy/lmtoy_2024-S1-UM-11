@@ -3,3 +3,17 @@
 #123456__1       extra bad beam     # pix_list=-4,-13,14,15
 #123456__0       standard           # pix_list=-13
 #
+
+125277 flat/flat
+125279 flat/flat
+125281 flat/flat
+125287 flat/flat
+125289 flat/flat
+125586 slope/slope
+125588 wave/flat
+125590 wave/~flat
+125592 wave/wave
+125602 QAFAIL
+125604 QAFAIL (30sec)
+125759 Wave/Wave
+125761 Wave/Wave
